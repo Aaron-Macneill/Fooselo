@@ -1,2 +1,1 @@
-# Fooselo
-Elo scores for Foosball
+Python script to keep track of elo scores.
